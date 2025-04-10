@@ -15,11 +15,4 @@ This project is an automatic smart door system built using:
 - Shows door status (Open/Closed)
 - Green LED when door is open, Red LED when closed
 
-## Circuit Diagram
-![circuit](images/your-circuit-diagram.png)
 
-## Code
-See [`smart_door.ino`](smart_door.ino)
-
-## Demo
-![demo](images/demo.gif)
